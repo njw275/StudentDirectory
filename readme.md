@@ -7,11 +7,17 @@ The goal of this project is to create a 2-4 tree to fetch information of interes
 ## Completed Tasks:
 
 init - creates 2-4 Tree
+
 ins - inserts studentID courseID courseName Grade
+
 load - loads the input file specified
+
 find - finds student based on studID
+
 range - display info for students from StudID(A) to StudID(B)
+
 gpa - shows gpa of student or average gpa for students from A->B
+
 del - deletes info for specific course of student
 
 ## Other Information
